@@ -653,6 +653,7 @@
     <hr>
     <li>Support= Destek</li>
     <hr>
+    <li>SPA (Single Page Aplication) = Tek sayfalı Uygulama</li> <!-- SPA' frameworklerine örnek : React, Vue , Svelte, Solid, Kawethra.js,... Aynı zamanda SPA Frameworklerdir.-->
     <li>Spin Box= Döndürme Kutusu</li>
     <hr>
     <li>Split= Böl</li>
